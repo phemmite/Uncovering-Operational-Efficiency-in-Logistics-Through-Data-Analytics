@@ -69,13 +69,33 @@ Delivery Days → =Actual_Delivery_Date - Order_Date
 
 Fast/Slow Movers → PivotTable sorting by Sum of Quantity_Ordered.
 
-💡 Final Recommendations
-Automate overdue tracking with conditional formatting and pivot alerts.
+🧭 Recommendations 
+Strengthen Credit Control:  
+Introduce automated alerts for overdue accounts and enforce stricter payment terms for high‑risk customers.
 
-Develop a Power BI dashboard for real‑time visualization of sales, profit, and delivery metrics.
+Optimize Pricing Strategy:  
+Re‑evaluate supplier contracts and pricing for low‑margin categories like Construction Materials to improve profitability.
 
-Apply predictive analytics to forecast demand and identify potential delays.
+Inventory Rationalization:  
+Reduce slow‑moving stock and prioritize restocking of high‑demand items to improve cash flow and warehouse utilization.
 
-Standardize supplier performance reviews based on delivery reliability and cost efficiency.
+Enhance Delivery Efficiency:  
+Use historical delay data to optimize carrier selection and route planning, reducing delivery time and hidden costs.
 
-Use data storytelling to communicate insights clearly to non‑technical stakeholders.
+Performance Dashboards:  
+Develop a Power BI dashboard that tracks KPIs such as on‑time delivery rate, profit margin, and customer risk score for real‑time decision‑making.
+
+Predictive Analytics:  
+Apply forecasting models to anticipate demand fluctuations and potential delivery delays before they impact operations.
+
+🧩 Conclusion
+This analysis demonstrates how data can transform logistics operations from reactive to proactive.
+By integrating these insights into daily decision‑making, management can:
+
+Improve profitability through smarter pricing and cost control.
+
+Strengthen customer relationships by reducing overdue balances.
+
+Enhance operational agility with faster deliveries and optimized inventory.
+
+Ultimately, this project proves that data isn’t just about numbers — it’s about clarity, control, and confidence in every business decision.
