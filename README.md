@@ -42,7 +42,7 @@ Slow‑moving products: Industrial Packaging Strapping Machine and Rubber�
 4. Delivery Performance
 Most deliveries completed within 3–7 days, but Industrial Equipment and Construction Materials had frequent delays.
 
-Longer delivery times correlated with lower profit margins — suggesting hidden logistics costs.
+Longer delivery times correlated with lower profit margins, suggesting hidden logistics costs.
 
 5. Operational Efficiency
 Profitability and delivery reliability are closely linked.
@@ -72,7 +72,7 @@ Strengthen customer relationships by reducing overdue balances.
 
 Enhance operational agility with faster deliveries and optimized inventory.
 
-Ultimately, this project proves that data isn’t just numbers — it’s clarity, control, and confidence in every business decision.
+Ultimately, this project proves that data isn’t just numbers. it’s clarity, control, and confidence in every business decision.
 
 ⚙️ Tools & Techniques
 Excel Power Query: Data cleaning, transformation, and filtering.
