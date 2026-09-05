@@ -50,17 +50,18 @@ Profitability and delivery reliability are closely linked.
 Customers with consistent on‑time deliveries also showed higher repeat orders and payment compliance.
 
 🧭 Recommendations to Management
-Strengthen Credit Control — Introduce automated alerts for overdue accounts and enforce stricter payment terms for high‑risk customers.
 
-Optimize Pricing Strategy — Re‑evaluate supplier contracts and pricing for low‑margin categories to improve profitability.
+Strengthen Credit Control: Introduce automated alerts for overdue accounts and enforce stricter payment terms for high‑risk customers.
 
-Inventory Rationalization — Reduce slow‑moving stock and prioritize restocking of high‑demand items to improve cash flow.
+Optimize Pricing Strategy: Re‑evaluate supplier contracts and pricing for low‑margin categories to improve profitability.
 
-Enhance Delivery Efficiency — Use historical delay data to optimize carrier selection and route planning.
+Inventory Rationalization: Reduce slow‑moving stock and prioritize restocking of high‑demand items to improve cash flow.
 
-Performance Dashboards — Develop a Power BI dashboard tracking KPIs such as on‑time delivery rate, profit margin, and customer risk score.
+Enhance Delivery Efficiency: Use historical delay data to optimize carrier selection and route planning.
 
-Predictive Analytics — Apply forecasting models to anticipate demand fluctuations and potential delivery delays.
+Performance Dashboards: Develop a Power BI dashboard tracking KPIs such as on‑time delivery rate, profit margin, and customer risk score.
+
+Predictive Analytics: Apply forecasting models to anticipate demand fluctuations and potential delivery delays.
 
 🧩 Conclusion
 This analysis demonstrates how data can transform logistics operations from reactive to proactive.
