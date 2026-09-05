@@ -1,5 +1,5 @@
 🧭 Project Title:
-Data‑Driven Logistics Optimization: Turning Operational Data into Business Intelligence
+Uncovering-Operational-Efficiency-in-Logistics-Through-Data-Analytics.
 
 🧩 Project Summary
 This project explores a large logistics dataset containing thousands of order transactions across multiple suppliers, warehouses, and customers in Nigeria.
